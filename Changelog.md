@@ -8,6 +8,7 @@ Notable changes will be noted here.
 - ibresources.html removed
 ### Note
 - MediaFire links are down and won't be reuploaded to that host again.
+- New files won't be added to the site until this examination session is over.
 
 ## 1.0.0 - (2017-10-28)
 ### Added
